@@ -112,7 +112,7 @@ Um projeto completo só ganha vida com uma equipe sintonizada. Conheça as mente
 | <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Flor** | Pendente | ... |
 | <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Gabriel** | Pendente | ... |
 | <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **João Vítor** | Pendente | ... |
-| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Vanderson** | Pendente | ... |
+| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Vanderson** | Pendente | github.com/xvanderx |
 
 ---
 
