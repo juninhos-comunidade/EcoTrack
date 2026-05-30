@@ -108,11 +108,12 @@ Um projeto completo só ganha vida com uma equipe sintonizada. Conheça as mente
 
 | Avatar | Membro | Função / Especialidade | GitHub |
 | :---: | :--- | :--- | :--- |
-| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Enrico** | Pendente | github.com/r1qu1nh0 |
-| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Flor** | Pendente | ... |
-| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Gabriel** | Pendente | ... |
-| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **João Vítor** | Pendente | ... |
-| <img src="https://github.com/github.png" width="40" style="border-radius:50%"/> | **Vanderson** | Pendente | github.com/xvanderx |
+| <img src="https://github.com/r1qu1nh0.png" width="40" style="border-radius:50%"/> | **Enrico** | FrontEnd | github.com/r1qu1nh0 |
+| <img src="https://github.com/floretereas.png" width="40" style="border-radius:50%"/> | **Flor** | FrontEnd | github.com/floretereas ||
+| <img src="https://github.com/Alice-773.png" width="40" style="border-radius:50%"/> | **Alice** | FrontEnd | github.com/Alice-773 |
+| <img src="https://github.com/YuukoDev.png" width="40" style="border-radius:50%"/> | **Gabriel** | BackEnd | github.com/YuukoDev |
+| <img src="https://github.com/VitorAlvs.png" width="40" style="border-radius:50%"/> | **João Vítor** | Líder, Banco de Dados, Infraestrutura | github.com/VitorAlvs |
+| <img src="https://github.com/xvanderx.png" width="40" style="border-radius:50%"/> | **Vanderson** | Banco de Dados | github.com/xvanderx |
 
 ---
 
